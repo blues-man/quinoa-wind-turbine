@@ -3,6 +3,7 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
+
 ## Running the application in dev mode
 
 Install first:
